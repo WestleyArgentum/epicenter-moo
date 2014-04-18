@@ -5,7 +5,8 @@ module Moo
 
     moos = ["MOOOOOOO!", "*flicks tail*",
             "moo...", "MOO", "Leave me in peace, human.",
-            "Get your hands off me you dirty human!"]
+            "Get your hands off me you dirty human!",
+            "*flicks tail at dirty human!*"]
 
     historical_moos = Any[]
 
