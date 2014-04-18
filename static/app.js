@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     function displayData(result) {
-        $('#results').append('<h1>' + result + '</h1>');
+        $('#results').prepend('<h1>' + result + '</h1>');
     }
 
     function showButton(response) {
